@@ -1,2 +1,2 @@
-# username.github.io
+# mariabisaga.github.io
 Personal website made using Jekyll
